@@ -51,7 +51,7 @@
         "commander": "^9.4.0",
         "file-write": "^0.0.2",
         "lodash": "^4.17.21",
-        "update-notifier": "^5.1.0"
+        "update-notifier": "^6.0.2"
     },
     "bin": {
         "httpfy": "./bin/httpfy.js"
